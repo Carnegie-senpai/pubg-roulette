@@ -3,7 +3,7 @@ import random
 import argparse
 import json
 
-
+//what a fucking cuck you cuck
 class Game:
     def __init__(self, title, description):
         self.title = title
